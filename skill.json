@@ -1,0 +1,266 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "summary": "Vancouver Puppy picture skill",
+          "examplePhrases": [
+            "Alexa open vancouver puppies"
+          ],
+          "keywords": [],
+          "name": "Vancouver Puppies",
+          "description": "Vancouver Puppy picture skill",
+          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
+          "updatesDescription": "Vancouver Puppy picture skill",
+          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+        },
+        "en-CA": {
+          "summary": "Vancouver Puppy picture skill",
+          "examplePhrases": [
+            "Alexa open vancouver puppies"
+          ],
+          "keywords": [],
+          "name": "Vancouver Puppies",
+          "description": "Vancouver Puppy picture skill",
+          "smallIconUri": "file://assets/images/en-CA_smallIconUri.png",
+          "updatesDescription": "Vancouver Puppy picture skill",
+          "largeIconUri": "file://assets/images/en-CA_largeIconUri.png"
+        },
+        "pt-BR": {
+          "summary": "cachorros de vancouver skill",
+          "examplePhrases": [
+            "Alexa abra cachorros de vancouver"
+          ],
+          "keywords": [],
+          "name": "cachorros de vancouver",
+          "description": "cachorros de vancouver skill",
+          "smallIconUri": "file://assets/images/pt-BR_smallIconUri.png",
+          "updatesDescription": "cachorros de vancouver skill",
+          "largeIconUri": "file://assets/images/pt-BR_largeIconUri.png"
+        },
+        "en-IN": {
+          "summary": "Vancouver Puppy picture skill",
+          "examplePhrases": [
+            "Alexa open vancouver puppies"
+          ],
+          "keywords": [],
+          "name": "Vancouver Puppies",
+          "description": "Vancouver Puppy picture skill",
+          "smallIconUri": "file://assets/images/en-IN_smallIconUri.png",
+          "updatesDescription": "Vancouver Puppy picture skill",
+          "largeIconUri": "file://assets/images/en-IN_largeIconUri.png"
+        },
+        "es-ES": {
+          "summary": "perritos de vancouver skill",
+          "examplePhrases": [
+            "Alexa abre perritos de vancouver"
+          ],
+          "keywords": [],
+          "name": "perritos de vancouver",
+          "description": "skill perritos de vancouver",
+          "smallIconUri": "file://assets/images/es-ES_smallIconUri.png",
+          "updatesDescription": "perritos de vancouver skill",
+          "largeIconUri": "file://assets/images/es-ES_largeIconUri.png"
+        },
+        "es-MX": {
+          "summary": "perritos de vancouver skill",
+          "examplePhrases": [
+            "Alexa abre perritos de vancouver"
+          ],
+          "keywords": [],
+          "name": "perritos de vancouver",
+          "description": "skill perritos de vancouver",
+          "smallIconUri": "file://assets/images/es-MX_smallIconUri.png",
+          "updatesDescription": "perritos de vancouver skill",
+          "largeIconUri": "file://assets/images/es-MX_largeIconUri.png"
+        },
+        "fr-CA": {
+          "summary": "Découvrez des anecdotes marrantes sur l\u0027espace.",
+          "examplePhrases": [
+            "Alexa ouvrir les chiens de vancouver"
+          ],
+          "keywords": [
+            "espace",
+            "info",
+            "anecdote",
+            "trivia"
+          ],
+          "name": "les chiens de vancouver",
+          "description": "Demandez des anecdotes sur l\u0027espace et découvrez ce qui compte vraiment, comme la matière noire.\n\nLes anecdotes de l\u0027espace vont régaler toute la famille et garantir de vous rendre plus intelligent.\n\nPour commencer, dites simplement \"Alexa, lance anecdotes de l\u0027espace\" ou \"Alexa, ouvre anecdotes de l\u0027espace\" pour obtenir une anecdote \".\n\nÀ tout moment, vous pouvez arrêter en disant \"Alexa, stop \"",
+          "smallIconUri": "file://assets/images/fr-CA_smallIconUri.png",
+          "largeIconUri": "file://assets/images/fr-CA_largeIconUri.png"
+        },
+        "it-IT": {
+          "summary": "This is Cani di Vancouver",
+          "examplePhrases": [
+            "alexa apri cani di vancouver"
+          ],
+          "keywords": [],
+          "name": "Cani di Vancouver",
+          "description": "This is Cani di Vancouver",
+          "smallIconUri": "file://assets/images/it-IT_smallIconUri.png",
+          "largeIconUri": "file://assets/images/it-IT_largeIconUri.png"
+        },
+        "en-AU": {
+          "summary": "Vancouver Puppy picture skill",
+          "examplePhrases": [
+            "Alexa open vancouver puppies",
+            ""
+          ],
+          "keywords": [],
+          "name": "Vancouver Puppies",
+          "description": "Vancouver Puppy picture skill",
+          "smallIconUri": "file://assets/images/en-AU_smallIconUri.png",
+          "updatesDescription": "Vancouver Puppy picture skill",
+          "largeIconUri": "file://assets/images/en-AU_largeIconUri.png"
+        },
+        "es-US": {
+          "summary": "perritos de vancouver skill",
+          "examplePhrases": [
+            "Alexa abre perritos de vancouver"
+          ],
+          "keywords": [],
+          "name": "perritos de vancouver",
+          "description": "skill perritos de vancouver",
+          "smallIconUri": "file://assets/images/es-US_smallIconUri.png",
+          "updatesDescription": "perritos de vancouver skill",
+          "largeIconUri": "file://assets/images/es-US_largeIconUri.png"
+        },
+        "fr-FR": {
+          "summary": "Découvrez des anecdotes marrantes sur l\u0027espace.",
+          "examplePhrases": [
+            "Alexa ouvrir les chiens de vancouver"
+          ],
+          "keywords": [
+            "espace",
+            "info",
+            "anecdote",
+            "trivia"
+          ],
+          "name": "les chiens de vancouver",
+          "description": "Demandez des anecdotes sur l\u0027espace et découvrez ce qui compte vraiment, comme la matière noire.\n\nLes anecdotes de l\u0027espace vont régaler toute la famille et garantir de vous rendre plus intelligent.\n\nPour commencer, dites simplement \"Alexa, lance anecdotes de l\u0027espace\" ou \"Alexa, ouvre anecdotes de l\u0027espace\" pour obtenir une anecdote \".\n\nÀ tout moment, vous pouvez arrêter en disant \"Alexa, stop \"",
+          "smallIconUri": "file://assets/images/fr-FR_smallIconUri.png",
+          "largeIconUri": "file://assets/images/fr-FR_largeIconUri.png"
+        },
+        "ja-JP": {
+          "summary": "バンクーバーの子犬たち",
+          "examplePhrases": [
+            "アレクサバンクーバーの子犬たちを開けて"
+          ],
+          "keywords": [],
+          "name": "バンクーバーの子犬たち",
+          "description": "バンクーバーの子犬たち",
+          "smallIconUri": "file://assets/images/ja-JP_smallIconUri.png",
+          "largeIconUri": "file://assets/images/ja-JP_largeIconUri.png"
+        },
+        "en-GB": {
+          "summary": "Vancouver Puppy picture skill",
+          "examplePhrases": [
+            "Alexa open vancouver puppies"
+          ],
+          "keywords": [],
+          "name": "Vancouver Puppies",
+          "description": "Vancouver Puppy picture skill",
+          "smallIconUri": "file://assets/images/en-GB_smallIconUri.png",
+          "updatesDescription": "Vancouver Puppy picture skill",
+          "largeIconUri": "file://assets/images/en-GB_largeIconUri.png"
+        }
+      },
+      "automaticDistribution": {
+        "isActive": false
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "open the skills using invocation name",
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionMode": "PUBLIC",
+      "distributionCountries": []
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:eu-west-1:990407088395:function:c68f81f0-0f60-4c07-9c87-3a32bf14872a:Release_1"
+        },
+        "interfaces": [],
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:eu-west-1:990407088395:function:c68f81f0-0f60-4c07-9c87-3a32bf14872a:Release_1"
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-east-1:990407088395:function:c68f81f0-0f60-4c07-9c87-3a32bf14872a:Release_1"
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "arn:aws:lambda:us-west-2:990407088395:function:c68f81f0-0f60-4c07-9c87-3a32bf14872a:Release_1"
+            }
+          }
+        }
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": false,
+      "locales": {
+        "en-US": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "en-CA": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "pt-BR": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "en-IN": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "es-ES": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "fr-CA": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "es-MX": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "it-IT": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "en-AU": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "es-US": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "fr-FR": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "ja-JP": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        },
+        "en-GB": {
+          "termsOfUseUrl": "https://cloud.google.com/terms",
+          "privacyPolicyUrl": "https://cloud.google.com/terms"
+        }
+      },
+      "containsAds": false,
+      "isExportCompliant": true,
+      "isChildDirected": false,
+      "usesPersonalInfo": false
+    }
+  }
+}
